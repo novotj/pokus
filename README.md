@@ -6,3 +6,5 @@ upravy remote v mainu
 dalsi upravy remote v mainu
 
 uprava Github
+
+uprava Github 2
